@@ -2,7 +2,7 @@
  * @author Ralf-Juergen Triebel - Hamburg / Germany
  *
  ***** Capture images from videostream *****
- *     using jQuery©
+ *****        using jQuery©            *****
  */
 
 /**
